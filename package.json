@@ -1,5 +1,5 @@
 {
-  "name": "lygos",
+  "name": "lygos-sdk",
   "version": "1.0.0",
   "description": "A lightweight Node.js SDK for integrating with the LYGOS payment API ",
   "main": "index.js",
